@@ -1,5 +1,3 @@
-# thinkpalm-agentai-rahnas-Lab-D10-QA-Muhammad-Rahnas-RM
-
 # OrangeHRM Login Automation Testing
 
 ## Project Overview
